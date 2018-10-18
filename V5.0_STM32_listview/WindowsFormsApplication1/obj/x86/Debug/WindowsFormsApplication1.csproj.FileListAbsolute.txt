@@ -1,0 +1,101 @@
+D:\Backup\我的文档\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Backup\我的文档\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Backup\我的文档\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Backup\我的文档\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Backup\我的文档\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Backup\我的文档\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Backup\我的文档\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Backup\我的文档\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Backup\我的文档\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Backup\我的文档\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\9.各种上位机源程序\AMO_WindowsForms\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\9.各种上位机源程序\AMO_WindowsForms\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\9.各种上位机源程序\AMO_WindowsForms\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\9.各种上位机源程序\AMO_WindowsForms\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\9.各种上位机源程序\AMO_WindowsForms\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\9.各种上位机源程序\AMO_WindowsForms\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\9.各种上位机源程序\AMO_WindowsForms\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\9.各种上位机源程序\AMO_WindowsForms\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\9.各种上位机源程序\AMO_WindowsForms\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\LuanLongComputer\Desktop\C#_Picturebox_Char\AMO_WindowsForms\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\LuanLongComputer\Desktop\C#_Picturebox_Char\AMO_WindowsForms\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\LuanLongComputer\Desktop\C#_Picturebox_Char\AMO_WindowsForms\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\LuanLongComputer\Desktop\C#_Picturebox_Char\AMO_WindowsForms\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\LuanLongComputer\Desktop\C#_Picturebox_Char\AMO_WindowsForms\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\LuanLongComputer\Desktop\C#_Picturebox_Char\AMO_WindowsForms\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\LuanLongComputer\Desktop\C#_Picturebox_Char\AMO_WindowsForms\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\LuanLongComputer\Desktop\C#_Picturebox_Char\AMO_WindowsForms\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\LuanLongComputer\Desktop\C#_Picturebox_Char\AMO_WindowsForms\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\LuanLongComputer\Desktop\C#_Picturebox_Char\WindowsForms\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\LuanLongComputer\Desktop\C#_Picturebox_Char\WindowsForms\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\LuanLongComputer\Desktop\C#_Picturebox_Char\WindowsForms\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\LuanLongComputer\Desktop\C#_Picturebox_Char\WindowsForms\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\LuanLongComputer\Desktop\C#_Picturebox_Char\WindowsForms\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\LuanLongComputer\Desktop\C#_Picturebox_Char\WindowsForms\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\LuanLongComputer\Desktop\C#_Picturebox_Char\WindowsForms\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\LuanLongComputer\Desktop\C#_Picturebox_Char\WindowsForms\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\LuanLongComputer\Desktop\C#_Picturebox_Char\WindowsForms\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\LuanLongComputer\Desktop\舵机上位机\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\LuanLongComputer\Desktop\舵机上位机\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\LuanLongComputer\Desktop\舵机上位机\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\LuanLongComputer\Desktop\舵机上位机\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\LuanLongComputer\Desktop\舵机上位机\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\LuanLongComputer\Desktop\舵机上位机\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\LuanLongComputer\Desktop\舵机上位机\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\LuanLongComputer\Desktop\舵机上位机\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\LuanLongComputer\Desktop\舵机上位机\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\L-Dragon\Desktop\舵机上位机\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\L-Dragon\Desktop\舵机上位机\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\L-Dragon\Desktop\舵机上位机\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\L-Dragon\Desktop\舵机上位机\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\L-Dragon\Desktop\舵机上位机\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\L-Dragon\Desktop\舵机上位机\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\L-Dragon\Desktop\舵机上位机\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\L-Dragon\Desktop\舵机上位机\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\L-Dragon\Desktop\舵机上位机\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\L-Dragon\Desktop\舵机上位机\V1.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\L-Dragon\Desktop\舵机上位机\V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\L-Dragon\Desktop\舵机上位机\V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\L-Dragon\Desktop\舵机上位机\V1.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\L-Dragon\Desktop\舵机上位机\V1.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\L-Dragon\Desktop\舵机上位机\V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\L-Dragon\Desktop\舵机上位机\V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\L-Dragon\Desktop\舵机上位机\V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\L-Dragon\Desktop\舵机上位机\V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\桌面2\舵机上位机\V1.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\桌面2\舵机上位机\V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+G:\桌面2\舵机上位机\V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+G:\桌面2\舵机上位机\V1.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\桌面2\舵机上位机\V1.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\桌面2\舵机上位机\V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+G:\桌面2\舵机上位机\V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+G:\桌面2\舵机上位机\V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\桌面2\舵机上位机\V1.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\L-Dragon\Desktop\舵机上位机\V2.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\L-Dragon\Desktop\舵机上位机\V2.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\L-Dragon\Desktop\舵机上位机\V2.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\L-Dragon\Desktop\舵机上位机\V2.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\L-Dragon\Desktop\舵机上位机\V2.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\L-Dragon\Desktop\舵机上位机\V2.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\L-Dragon\Desktop\舵机上位机\V2.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\L-Dragon\Desktop\舵机上位机\V2.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\L-Dragon\Desktop\舵机上位机\V2.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\L-Dragon\Desktop\舵机上位机\VS串口绘图\V2.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\L-Dragon\Desktop\舵机上位机\VS串口绘图\V2.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\L-Dragon\Desktop\舵机上位机\VS串口绘图\V2.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\L-Dragon\Desktop\舵机上位机\VS串口绘图\V2.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\L-Dragon\Desktop\舵机上位机\VS串口绘图\V2.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\L-Dragon\Desktop\舵机上位机\VS串口绘图\V2.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\L-Dragon\Desktop\舵机上位机\VS串口绘图\V2.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\L-Dragon\Desktop\舵机上位机\VS串口绘图\V2.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\L-Dragon\Desktop\舵机上位机\VS串口绘图\V2.0\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\L-Dragon\Desktop\舵机上位机\V5.0_STM32_listview\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\L-Dragon\Desktop\舵机上位机\V5.0_STM32_listview\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\L-Dragon\Desktop\舵机上位机\V5.0_STM32_listview\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\L-Dragon\Desktop\舵机上位机\V5.0_STM32_listview\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\L-Dragon\Desktop\舵机上位机\V5.0_STM32_listview\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\L-Dragon\Desktop\舵机上位机\V5.0_STM32_listview\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\L-Dragon\Desktop\舵机上位机\V5.0_STM32_listview\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\L-Dragon\Desktop\舵机上位机\V5.0_STM32_listview\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\L-Dragon\Desktop\舵机上位机\V5.0_STM32_listview\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\L-Dragon\Desktop\舵机上位机\V5.0_STM32_listview\WindowsFormsApplication1\bin\Debug\Aspose.Cells.dll
